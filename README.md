@@ -1,9 +1,9 @@
 ---
 # git-test2
-
 <a href="https://www.youtube.com/watch?v=6i0p-vnwRN4&t=0s&ab_channel=%E7%8E%8B%E5%AD%90%E7%91%8B
 " target="_blank"><img src="http://img.youtube.com/vi/6i0p-vnwRN4/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="540" height="300" border="10" /></a>
+
 
 
 ---
@@ -14,11 +14,9 @@ alt="IMAGE ALT TEXT HERE" width="540" height="300" border="10" /></a>
 [![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 
 
+---
 [![Everything Is AWESOME](http://img.youtube.com/vi/6i0p-vnwRN4/0.jpg)](http://www.youtube.com/watch?feature=player_embedded&v=6i0p-vnwRN4)
 
 
-[![Everything Is AWESOME](http://img.youtube.com/vi/6i0p-vnwRN4/0.jpg)](https://www.youtube.com/watch?v=6i0p-vnwRN4&t=5s&ab_channel=%E7%8E%8B%E5%AD%90%E7%91%8B)
-
-```python
-
-```
+---
+[![Everything Is AWESOME](http://img.youtube.com/vi/6i0p-vnwRN4/0.jpg)](https://www.youtube.com/watch?v=6i0p-vnwRN4&start=5&end=10&ab_channel=%E7%8E%8B%E5%AD%90%E7%91%8B)
